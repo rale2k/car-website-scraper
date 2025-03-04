@@ -7,7 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 STARTING_OFFSET = 0
-BASE_URL = "https://www.auto24.ee"
+BASE_URL = "https://www.website.com"
 LIST_BASE_URL = f"{BASE_URL}/kasutatud/nimekiri.php"
 OUTPUT_DIR = ".\output"
 
